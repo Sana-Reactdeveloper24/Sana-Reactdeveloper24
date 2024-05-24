@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sana Salam</h1>
 <h3 align="center">Welcome to my Github Profile!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sana-reactdeveolper24&label=Profile%20views&color=0e75b6&style=flat" alt="sana-reactdeveolper24" /> </p>
+<p align="left">  alt="Sana-Salam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sana-reactdeveolper24" alt="sana-reactdeveolper24" /></a> </p>
 
